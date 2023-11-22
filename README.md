@@ -1,6 +1,5 @@
 # BehaviorTreeDemoReaper
 
-# BehaviorTreeDemoReaper
 
 ​	该项目演示内容是对怪物AI行为树的基础设计，使用了BehaviorDesigner行为树插件进行设计。并尝试全逻辑热更新对外部插件导入的可能。
 
