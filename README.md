@@ -15,3 +15,7 @@
 · HybridCLR
 
 · AssetBundle
+
+
+
+视频链接：【【Unity】 行为树制作怪物AI行为模型以及热更新尝试】 https://www.bilibili.com/video/BV1Bu4y1P7QZ/?share_source=copy_web&vd_source=f533dbc3ccf9e36d6a1363b370ad536e
