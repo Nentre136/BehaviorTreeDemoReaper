@@ -1,0 +1,737 @@
+fileFormatVersion: 2
+guid: 882e7e2b76d32a146894636508b9608b
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Factice001
+  - first:
+      1: 100002
+    second: Factice002
+  - first:
+      1: 100004
+    second: REAPER
+  - first:
+      1: 100006
+    second: REAPER_
+  - first:
+      1: 100008
+    second: REAPER_ Head
+  - first:
+      1: 100010
+    second: REAPER_ L Clavicle
+  - first:
+      1: 100012
+    second: REAPER_ L Finger0
+  - first:
+      1: 100014
+    second: REAPER_ L Finger01
+  - first:
+      1: 100016
+    second: REAPER_ L Finger02
+  - first:
+      1: 100018
+    second: REAPER_ L Finger1
+  - first:
+      1: 100020
+    second: REAPER_ L Finger11
+  - first:
+      1: 100022
+    second: REAPER_ L Finger12
+  - first:
+      1: 100024
+    second: REAPER_ L Finger2
+  - first:
+      1: 100026
+    second: REAPER_ L Finger21
+  - first:
+      1: 100028
+    second: REAPER_ L Finger22
+  - first:
+      1: 100030
+    second: REAPER_ L Finger3
+  - first:
+      1: 100032
+    second: REAPER_ L Finger31
+  - first:
+      1: 100034
+    second: REAPER_ L Finger32
+  - first:
+      1: 100036
+    second: REAPER_ L Finger4
+  - first:
+      1: 100038
+    second: REAPER_ L Finger41
+  - first:
+      1: 100040
+    second: REAPER_ L Finger42
+  - first:
+      1: 100042
+    second: REAPER_ L Forearm
+  - first:
+      1: 100044
+    second: REAPER_ L Hand
+  - first:
+      1: 100046
+    second: REAPER_ L UpperArm
+  - first:
+      1: 100048
+    second: REAPER_ Neck
+  - first:
+      1: 100050
+    second: REAPER_ Neck1
+  - first:
+      1: 100052
+    second: REAPER_ Pelvis
+  - first:
+      1: 100054
+    second: REAPER_ R Clavicle
+  - first:
+      1: 100056
+    second: REAPER_ R Finger0
+  - first:
+      1: 100058
+    second: REAPER_ R Finger01
+  - first:
+      1: 100060
+    second: REAPER_ R Finger02
+  - first:
+      1: 100062
+    second: REAPER_ R Finger1
+  - first:
+      1: 100064
+    second: REAPER_ R Finger11
+  - first:
+      1: 100066
+    second: REAPER_ R Finger12
+  - first:
+      1: 100068
+    second: REAPER_ R Finger2
+  - first:
+      1: 100070
+    second: REAPER_ R Finger21
+  - first:
+      1: 100072
+    second: REAPER_ R Finger22
+  - first:
+      1: 100074
+    second: REAPER_ R Finger3
+  - first:
+      1: 100076
+    second: REAPER_ R Finger31
+  - first:
+      1: 100078
+    second: REAPER_ R Finger32
+  - first:
+      1: 100080
+    second: REAPER_ R Finger4
+  - first:
+      1: 100082
+    second: REAPER_ R Finger41
+  - first:
+      1: 100084
+    second: REAPER_ R Finger42
+  - first:
+      1: 100086
+    second: REAPER_ R Forearm
+  - first:
+      1: 100088
+    second: REAPER_ R Hand
+  - first:
+      1: 100090
+    second: REAPER_ R UpperArm
+  - first:
+      1: 100092
+    second: REAPER_ Spine
+  - first:
+      1: 100094
+    second: REAPER_ Spine1
+  - first:
+      1: 100096
+    second: REAPER_ Tail
+  - first:
+      1: 100098
+    second: REAPER_ Tail1
+  - first:
+      1: 100100
+    second: REAPER_ Tail2
+  - first:
+      1: 100102
+    second: REAPER_ Tail3
+  - first:
+      1: 100104
+    second: REAPER_ Tail4
+  - first:
+      1: 100106
+    second: REAPER_CHAIN_LINK_LEFT_1
+  - first:
+      1: 100108
+    second: REAPER_CHAIN_LINK_LEFT_2
+  - first:
+      1: 100110
+    second: REAPER_CHAIN_LINK_LEFT_3
+  - first:
+      1: 100112
+    second: REAPER_CHAIN_LINK_RIGHT_1
+  - first:
+      1: 100114
+    second: REAPER_CHAIN_LINK_RIGHT_2
+  - first:
+      1: 100116
+    second: REAPER_CHAIN_LINK_RIGHT_3
+  - first:
+      1: 100118
+    second: REAPER_HOURGLASS
+  - first:
+      1: 100120
+    second: REAPER_LANTERN
+  - first:
+      1: 100122
+    second: REAPER_SCYTHE
+  - first:
+      1: 100124
+    second: REAPER_WING_LEFT_1
+  - first:
+      1: 100126
+    second: REAPER_WING_LEFT_2
+  - first:
+      1: 100128
+    second: REAPER_WING_LEFT_3
+  - first:
+      1: 100130
+    second: REAPER_WING_LEFT_FINGER_A_1
+  - first:
+      1: 100132
+    second: REAPER_WING_LEFT_FINGER_A_2
+  - first:
+      1: 100134
+    second: REAPER_WING_LEFT_FINGER_A_3
+  - first:
+      1: 100136
+    second: REAPER_WING_LEFT_FINGER_B_1
+  - first:
+      1: 100138
+    second: REAPER_WING_LEFT_FINGER_B_2
+  - first:
+      1: 100140
+    second: REAPER_WING_LEFT_FINGER_B_3
+  - first:
+      1: 100142
+    second: REAPER_WING_LEFT_FINGER_C_1
+  - first:
+      1: 100144
+    second: REAPER_WING_LEFT_FINGER_C_2
+  - first:
+      1: 100146
+    second: REAPER_WING_LEFT_FINGER_C_3
+  - first:
+      1: 100148
+    second: REAPER_WING_RIGHT_1
+  - first:
+      1: 100150
+    second: REAPER_WING_RIGHT_2
+  - first:
+      1: 100152
+    second: REAPER_WING_RIGHT_3
+  - first:
+      1: 100154
+    second: REAPER_WING_RIGHT_FINGER_A_1
+  - first:
+      1: 100156
+    second: REAPER_WING_RIGHT_FINGER_A_2
+  - first:
+      1: 100158
+    second: REAPER_WING_RIGHT_FINGER_A_3
+  - first:
+      1: 100160
+    second: REAPER_WING_RIGHT_FINGER_B_1
+  - first:
+      1: 100162
+    second: REAPER_WING_RIGHT_FINGER_B_2
+  - first:
+      1: 100164
+    second: REAPER_WING_RIGHT_FINGER_B_3
+  - first:
+      1: 100166
+    second: REAPER_WING_RIGHT_FINGER_C_1
+  - first:
+      1: 100168
+    second: REAPER_WING_RIGHT_FINGER_C_2
+  - first:
+      1: 100170
+    second: REAPER_WING_RIGHT_FINGER_C_3
+  - first:
+      1: 100172
+    second: //RootNode
+  - first:
+      1: 100174
+    second: root
+  - first:
+      1: 100176
+    second: SK_Reaper
+  - first:
+      1: 100178
+    second: SM_ReaperScythe
+  - first:
+      4: 400000
+    second: Factice001
+  - first:
+      4: 400002
+    second: Factice002
+  - first:
+      4: 400004
+    second: REAPER
+  - first:
+      4: 400006
+    second: REAPER_
+  - first:
+      4: 400008
+    second: REAPER_ Head
+  - first:
+      4: 400010
+    second: REAPER_ L Clavicle
+  - first:
+      4: 400012
+    second: REAPER_ L Finger0
+  - first:
+      4: 400014
+    second: REAPER_ L Finger01
+  - first:
+      4: 400016
+    second: REAPER_ L Finger02
+  - first:
+      4: 400018
+    second: REAPER_ L Finger1
+  - first:
+      4: 400020
+    second: REAPER_ L Finger11
+  - first:
+      4: 400022
+    second: REAPER_ L Finger12
+  - first:
+      4: 400024
+    second: REAPER_ L Finger2
+  - first:
+      4: 400026
+    second: REAPER_ L Finger21
+  - first:
+      4: 400028
+    second: REAPER_ L Finger22
+  - first:
+      4: 400030
+    second: REAPER_ L Finger3
+  - first:
+      4: 400032
+    second: REAPER_ L Finger31
+  - first:
+      4: 400034
+    second: REAPER_ L Finger32
+  - first:
+      4: 400036
+    second: REAPER_ L Finger4
+  - first:
+      4: 400038
+    second: REAPER_ L Finger41
+  - first:
+      4: 400040
+    second: REAPER_ L Finger42
+  - first:
+      4: 400042
+    second: REAPER_ L Forearm
+  - first:
+      4: 400044
+    second: REAPER_ L Hand
+  - first:
+      4: 400046
+    second: REAPER_ L UpperArm
+  - first:
+      4: 400048
+    second: REAPER_ Neck
+  - first:
+      4: 400050
+    second: REAPER_ Neck1
+  - first:
+      4: 400052
+    second: REAPER_ Pelvis
+  - first:
+      4: 400054
+    second: REAPER_ R Clavicle
+  - first:
+      4: 400056
+    second: REAPER_ R Finger0
+  - first:
+      4: 400058
+    second: REAPER_ R Finger01
+  - first:
+      4: 400060
+    second: REAPER_ R Finger02
+  - first:
+      4: 400062
+    second: REAPER_ R Finger1
+  - first:
+      4: 400064
+    second: REAPER_ R Finger11
+  - first:
+      4: 400066
+    second: REAPER_ R Finger12
+  - first:
+      4: 400068
+    second: REAPER_ R Finger2
+  - first:
+      4: 400070
+    second: REAPER_ R Finger21
+  - first:
+      4: 400072
+    second: REAPER_ R Finger22
+  - first:
+      4: 400074
+    second: REAPER_ R Finger3
+  - first:
+      4: 400076
+    second: REAPER_ R Finger31
+  - first:
+      4: 400078
+    second: REAPER_ R Finger32
+  - first:
+      4: 400080
+    second: REAPER_ R Finger4
+  - first:
+      4: 400082
+    second: REAPER_ R Finger41
+  - first:
+      4: 400084
+    second: REAPER_ R Finger42
+  - first:
+      4: 400086
+    second: REAPER_ R Forearm
+  - first:
+      4: 400088
+    second: REAPER_ R Hand
+  - first:
+      4: 400090
+    second: REAPER_ R UpperArm
+  - first:
+      4: 400092
+    second: REAPER_ Spine
+  - first:
+      4: 400094
+    second: REAPER_ Spine1
+  - first:
+      4: 400096
+    second: REAPER_ Tail
+  - first:
+      4: 400098
+    second: REAPER_ Tail1
+  - first:
+      4: 400100
+    second: REAPER_ Tail2
+  - first:
+      4: 400102
+    second: REAPER_ Tail3
+  - first:
+      4: 400104
+    second: REAPER_ Tail4
+  - first:
+      4: 400106
+    second: REAPER_CHAIN_LINK_LEFT_1
+  - first:
+      4: 400108
+    second: REAPER_CHAIN_LINK_LEFT_2
+  - first:
+      4: 400110
+    second: REAPER_CHAIN_LINK_LEFT_3
+  - first:
+      4: 400112
+    second: REAPER_CHAIN_LINK_RIGHT_1
+  - first:
+      4: 400114
+    second: REAPER_CHAIN_LINK_RIGHT_2
+  - first:
+      4: 400116
+    second: REAPER_CHAIN_LINK_RIGHT_3
+  - first:
+      4: 400118
+    second: REAPER_HOURGLASS
+  - first:
+      4: 400120
+    second: REAPER_LANTERN
+  - first:
+      4: 400122
+    second: REAPER_SCYTHE
+  - first:
+      4: 400124
+    second: REAPER_WING_LEFT_1
+  - first:
+      4: 400126
+    second: REAPER_WING_LEFT_2
+  - first:
+      4: 400128
+    second: REAPER_WING_LEFT_3
+  - first:
+      4: 400130
+    second: REAPER_WING_LEFT_FINGER_A_1
+  - first:
+      4: 400132
+    second: REAPER_WING_LEFT_FINGER_A_2
+  - first:
+      4: 400134
+    second: REAPER_WING_LEFT_FINGER_A_3
+  - first:
+      4: 400136
+    second: REAPER_WING_LEFT_FINGER_B_1
+  - first:
+      4: 400138
+    second: REAPER_WING_LEFT_FINGER_B_2
+  - first:
+      4: 400140
+    second: REAPER_WING_LEFT_FINGER_B_3
+  - first:
+      4: 400142
+    second: REAPER_WING_LEFT_FINGER_C_1
+  - first:
+      4: 400144
+    second: REAPER_WING_LEFT_FINGER_C_2
+  - first:
+      4: 400146
+    second: REAPER_WING_LEFT_FINGER_C_3
+  - first:
+      4: 400148
+    second: REAPER_WING_RIGHT_1
+  - first:
+      4: 400150
+    second: REAPER_WING_RIGHT_2
+  - first:
+      4: 400152
+    second: REAPER_WING_RIGHT_3
+  - first:
+      4: 400154
+    second: REAPER_WING_RIGHT_FINGER_A_1
+  - first:
+      4: 400156
+    second: REAPER_WING_RIGHT_FINGER_A_2
+  - first:
+      4: 400158
+    second: REAPER_WING_RIGHT_FINGER_A_3
+  - first:
+      4: 400160
+    second: REAPER_WING_RIGHT_FINGER_B_1
+  - first:
+      4: 400162
+    second: REAPER_WING_RIGHT_FINGER_B_2
+  - first:
+      4: 400164
+    second: REAPER_WING_RIGHT_FINGER_B_3
+  - first:
+      4: 400166
+    second: REAPER_WING_RIGHT_FINGER_C_1
+  - first:
+      4: 400168
+    second: REAPER_WING_RIGHT_FINGER_C_2
+  - first:
+      4: 400170
+    second: REAPER_WING_RIGHT_FINGER_C_3
+  - first:
+      4: 400172
+    second: //RootNode
+  - first:
+      4: 400174
+    second: root
+  - first:
+      4: 400176
+    second: SK_Reaper
+  - first:
+      4: 400178
+    second: SM_ReaperScythe
+  - first:
+      21: 2100000
+    second: REAPER_BODY_LEGACY
+  - first:
+      21: 2100002
+    second: REAPER_CLOTHE_LEGACY
+  - first:
+      21: 2100004
+    second: REAPER_GEAR_LEGACY
+  - first:
+      21: 2100006
+    second: REAPER_GLASS_LEGACY
+  - first:
+      21: 2100008
+    second: REAPER_SCYTHE_LEGACY
+  - first:
+      21: 2100010
+    second: M_ReaperBody
+  - first:
+      21: 2100012
+    second: M_ReaperClothe
+  - first:
+      21: 2100014
+    second: M_ReaperGear
+  - first:
+      21: 2100016
+    second: M_ReaperGlass
+  - first:
+      21: 2100018
+    second: M_ReaperScythe
+  - first:
+      23: 2300000
+    second: REAPER_SCYTHE
+  - first:
+      23: 2300002
+    second: SM_ReaperScythe
+  - first:
+      33: 3300000
+    second: REAPER_SCYTHE
+  - first:
+      33: 3300002
+    second: SM_ReaperScythe
+  - first:
+      43: 4300000
+    second: REAPER
+  - first:
+      43: 4300002
+    second: REAPER_SCYTHE
+  - first:
+      43: 4300004
+    second: SK_Reaper
+  - first:
+      43: 4300006
+    second: SM_ReaperScythe
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: REAPER
+  - first:
+      137: 13700002
+    second: SK_Reaper
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ReaperBody
+    second: {fileID: 2100000, guid: e5109b8a7b87be84ab38dfe46c4d8308, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ReaperClothe
+    second: {fileID: 2100000, guid: b328ac568db69de4f870a0e9093251ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ReaperGear
+    second: {fileID: 2100000, guid: bfac9d112b833f54d8bd67bb58d026a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ReaperGlass
+    second: {fileID: 2100000, guid: 5ffcc783ac8453f4ab67f494041e4b67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ReaperScythe
+    second: {fileID: 2100000, guid: b9653fde45492b949b1a7e65a42daf32, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: combat
+  assetBundleVariant: 

@@ -1,0 +1,188 @@
+ManifestFileVersion: 0
+CRC: 2192670485
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b160d43d13f381133f091abbac6ed6a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a7d263d99ddb6740331ad8ae1cbb227b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c18bdb60dc29af141aeef2a53a56fab7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0a5c6b3beb945d443b5dc5be3a0ae91e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05c2851363502ee4b8cdd3de7b048cd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51f2e5a792da99e4d881fce4a3fca516, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ba96640422f3c543bbc53980013fce2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3bac98f7cf664ae4a8b494118d8f4768, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf13664ff5428e648b150bd8cf5618eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d7b55c7ecdb49a4a89fa5e6f9022861, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: BehaviorDesigner.Runtime
+  ClassName: BehaviorDesigner.Runtime.BehaviorSource
+- AssemblyName: BehaviorDesigner.Runtime
+  ClassName: BehaviorDesigner.Runtime.FieldSerializationData
+- AssemblyName: BehaviorDesigner.Runtime
+  ClassName: BehaviorDesigner.Runtime.TaskSerializationData
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Resources/Prefabs/Player.prefab
+- Assets/EnemyModel/Reaper/FBX Files/Reaper@FloatLeft.FBX
+- Assets/Resources/Prefabs/Reaper/Reaper.prefab
+- Assets/EnemyModel/Reaper/Textures/T_ReaperBody_Normal.jpg
+- Assets/EnemyModel/Reaper/Textures/T_ReaperBody_Legacy.jpg
+- Assets/EnemyModel/Reaper/FBX Files/Reaper@ScytheAttack3.FBX
+- Assets/EnemyModel/Reaper/Materials/M_ReaperScythe.mat
+- Assets/Material/Face.mat
+- Assets/EnemyModel/Reaper/FBX Files/Reaper@FloatForward.FBX
+- Assets/EnemyModel/Reaper/Textures/T_ReaperClothe_MetallicSmoothness.tga
+- Assets/EnemyModel/Reaper/Textures/T_ReaperClothe_BaseColor.tga
+- Assets/EnemyModel/Reaper/Textures/T_ReaperGlass_BaseColor.png
+- Assets/EnemyModel/Reaper/FBX Files/Reaper@Scythe3HitCombo.FBX
+- Assets/EnemyModel/Reaper/Materials/M_ReaperGlass.mat
+- Assets/EnemyModel/Reaper/FBX Files/SK_Reaper.FBX
+- Assets/EnemyModel/Reaper/FBX Files/Reaper@Idle.FBX
+- Assets/EnemyModel/Reaper/FBX Files/Reaper@ScytheAttack2.FBX
+- Assets/Material/Plane.mat
+- Assets/EnemyModel/Reaper/Textures/T_ReaperBody_Occlusion.jpg
+- Assets/Resources/Prefabs/CombatUI.prefab
+- Assets/EnemyModel/Reaper/Textures/T_ReaperScythe_BaseColor.jpg
+- Assets/EnemyModel/Reaper/Materials/M_ReaperGear.mat
+- Assets/EnemyModel/Reaper/FBX Files/Reaper@IdleNoScythe.FBX
+- Assets/EnemyModel/Reaper/Materials/M_ReaperClothe_Legacy.mat
+- Assets/EnemyModel/Reaper/FBX Files/Reaper@Scythe2HitComboA.FBX
+- Assets/Resources/Prefabs/PhotoGrapher.prefab
+- Assets/EnemyModel/Reaper/Textures/T_ReaperGear_Legacy.tga
+- Assets/EnemyModel/Reaper/Textures/T_ReaperScythe_Legacy.tga
+- Assets/EnemyModel/Reaper/FBX Files/Reaper@FloatBackwards.FBX
+- Assets/Resources/Prefabs/Reaper/ShockWave.prefab
+- Assets/EnemyModel/Reaper/Textures/T_ReaperClothe_Legacy.tga
+- Assets/EnemyModel/Reaper/FBX Files/Reaper@Scythe2HitComboB.FBX
+- Assets/EnemyModel/Reaper/Materials/M_ReaperClothe.mat
+- Assets/EnemyModel/Reaper/Textures/T_ReaperClothe_Occlusion.jpg
+- Assets/EnemyModel/Reaper/FBX Files/Reaper@Death.FBX
+- Assets/EnemyModel/Reaper/Textures/T_ReaperGear_MetallicSmoothness.tga
+- Assets/EnemyModel/Reaper/Textures/T_ReaperGear_BaseColor.jpg
+- Assets/EnemyModel/Reaper/Materials/M_ReaperBody.mat
+- Assets/Resources/Prefabs/GameManager.prefab
+- Assets/EnemyModel/Reaper/Textures/T_ReaperScythe_Emissive.tga
+- Assets/EnemyModel/Reaper/Textures/T_ReaperGear_Emissive.tga
+- Assets/EnemyModel/Reaper/Reaper_Controller.controller
+- Assets/EnemyModel/Reaper/FBX Files/Reaper@CastSpellB.FBX
+- Assets/EnemyModel/Reaper/Textures/T_ReaperClothe_Normal.jpg
+- Assets/EnemyModel/Reaper/Textures/T_ReaperScythe_Occlusion.jpg
+- Assets/EnemyModel/Reaper/Textures/T_ReaperGear_Occlusion.jpg
+- Assets/EnemyModel/Reaper/Materials/M_ReaperGlass_Legacy.mat
+- Assets/EnemyModel/Reaper/Materials/M_ReaperGear_Legacy.mat
+- Assets/EnemyModel/Reaper/Textures/T_ReaperBody_BaseColor.jpg
+- Assets/EnemyModel/Reaper/Textures/T_ReaperGear_Normal.jpg
+- Assets/EnemyModel/Reaper/FBX Files/Reaper@CastSpellA.FBX
+- Assets/Resources/Prefabs/Reaper/MagicRay.prefab
+- Assets/EnemyModel/Reaper/FBX Files/Reaper@FloatRight.FBX
+- Assets/EnemyModel/Reaper/FBX Files/Reaper@GetHit.FBX
+- Assets/EnemyModel/Reaper/Materials/M_ReaperScythe_Legacy.mat
+- Assets/EnemyModel/Reaper/FBX Files/Reaper@ScytheAttack1.FBX
+- Assets/Material/Player.mat
+- Assets/EnemyModel/Reaper/Textures/T_ReaperScythe_MetallicSmoothness.tga
+- Assets/EnemyModel/Reaper/Materials/M_ReaperBody_Legacy.mat
+- Assets/Resources/Prefabs/Map.prefab
+- Assets/EnemyModel/Reaper/Textures/T_ReaperScythe_Normal.jpg
+- Assets/EnemyModel/Reaper/Textures/T_ReaperBody_MetallicSmoothness.tga
+Dependencies: []

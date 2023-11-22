@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1340917568
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: combat
+      Dependencies: {}
+    Info_1:
+      Name: load
+      Dependencies: {}

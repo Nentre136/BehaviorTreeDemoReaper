@@ -1,0 +1,16 @@
+{
+    "name": "HotUpdateDef",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7994842e8bf77714797cf7709e0d8ff1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
